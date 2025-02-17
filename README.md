@@ -1,7 +1,7 @@
 
 # 📊 Data Analyst Self-Learning Python Journey
 
-![Cover Image](cover-image.png)  
+
 
 ---
 
